@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file alias="Project Logo">D:\Cyber Harel\YB_Project\icons\ProjectLogoResize.png</file>
+	<file alias="Login">D:\Cyber Harel\YB_Project\icons\login.png</file>
+	<file alias="Signup">D:\Cyber Harel\YB_Project\icons\signup.png</file>
+	<file alias="EyeOn">D:\Cyber Harel\YB_Project\icons\eyeopen.png</file>
+	<file alias="EyeOff">D:\Cyber Harel\YB_Project\icons\eyeclosed.png</file>
+	<file alias="soundOn">D:\Cyber Harel\YB_Project\icons\soundon.png</file>
+	<file alias="SoundOff">D:\Cyber Harel\YB_Project\icons\soundoff.png</file>
+	<file alias="Confirm">D:\Cyber Harel\YB_Project\icons\confirm2.png</file>
+	<file alias="UploadPFP">D:\Cyber Harel\YB_Project\icons\uploadpicture.png</file>
+	<file alias="SkipPFP">D:\Cyber Harel\YB_Project\icons\skip.png</file>
+	<file alias="DefaultPFP">D:\Cyber Harel\YB_Project\icons\defaultpfp.png</file>
+	<file alias="Continue">D:\Cyber Harel\YB_Project\icons\continue.png</file>
+	<file alias="Chat">D:\Cyber Harel\YB_Project\icons\chat.png</file>
+	<file alias="Scroll">D:\Cyber Harel\YB_Project\icons\scroll.png</file>
+	<file alias="Invite">D:\Cyber Harel\YB_Project\icons\invite.png</file>
+	<file alias="Next">D:\Cyber Harel\YB_Project\icons\next.png</file>
+	<file alias="Bell">D:\Cyber Harel\YB_Project\icons\bell.png</file>
+	<file alias="DefaultPFPSmall">D:\Cyber Harel\YB_Project\icons\defaultpfpsmall.png</file>
+	<file alias="Delete">D:\Cyber Harel\YB_Project\icons\delete.png</file>
+	<file alias="Send">D:\Cyber Harel\YB_Project\icons\send.png</file>
+	<file alias="Phone">D:\Cyber Harel\YB_Project\icons\phone.png</file>
+	<file alias="Video">D:\Cyber Harel\YB_Project\icons\video.png</file>
+	<file alias="HangUp">D:\Cyber Harel\YB_Project\icons\hangup.png</file>
+	<file alias="Mic">D:\Cyber Harel\YB_Project\icons\mic.png</file>
+	<file alias="Mute">D:\Cyber Harel\YB_Project\icons\mute.png</file>
+	<file alias="HeadPhones">D:\Cyber Harel\YB_Project\icons\headphones.png</file>
+	<file alias="Deafen">D:\Cyber Harel\YB_Project\icons\deafen.png</file>
+	<file alias="PickUp">D:\Cyber Harel\YB_Project\icons\pickup.png</file>
+	<file alias="Back">D:\Cyber Harel\YB_Project\icons\back.png</file>
+  </qresource>
+</RCC>
